@@ -1,1 +1,1 @@
-# class-adv-fall2023-proj2
+# class-coding-companion-workshop
