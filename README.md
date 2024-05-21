@@ -1,7 +1,9 @@
-# Power Up Research Software Development with Github Copilot
-In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn how to analyze and visualize the dataset using open-source tools. 
+# Power Up Research Software Development with Github Copilot - June 5, 2024
+In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Pre-requisites
+You will need to pre-install and obtain access to the following before the start of the workshop. 
+
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 - [GitHub account](https://github.com/)
