@@ -1,0 +1,16 @@
+name: githubcopilotworkshop
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - awscli
+  - ipykernel
+  - pip
+  - pip:
+      - notebook
