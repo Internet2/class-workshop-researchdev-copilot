@@ -1,6 +1,7 @@
 
-Sign Up Now https://tinyurl.com/2ypvbc9v
-Cost: $50 for NET+ subscribers, $150 for Internet2 members, $250 for non-members
+## Sign Up Now 
+https://tinyurl.com/2ypvbc9v
+## Cost: $50 for NET+ subscribers, $150 for Internet2 members, $250 for non-members
 
 # Power Up Research Software Development with Github Copilot - June 5, 2024
 In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
