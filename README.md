@@ -1,5 +1,5 @@
 
-## Sign Up Now 
+## Sign Up Now for the workshop
 https://tinyurl.com/2ypvbc9v
 ## Cost: $50 for NET+ subscribers, $150 for Internet2 members, $250 for non-members
 
