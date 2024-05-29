@@ -10,7 +10,7 @@ This guide will help you set up a Conda environment using the `environment.yml` 
 
 2. **Clone the repository**
 
-   First, clone the repository containing the `environment.yml` file to your local machine.
+   First, clone the repository containing the `environment.yml` file to your local machine and navigate to the directory where the repository is cloned.
 
    ```bash
    git clone https://github.com/Internet2/class-workshop-researchdev-copilot.git
@@ -24,7 +24,7 @@ This guide will help you set up a Conda environment using the `environment.yml` 
    Create a new Conda environment using the `environment.yml` file.
 
    ```bash
-   conda env create -f environment.yml
+   conda env create -f ./conda-environment/environment.yml
     ```
    This command reads the dependencies listed in the environment.yml file and creates a new Conda environment with those specifications.
 
