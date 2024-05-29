@@ -1,10 +1,9 @@
+# Power Up Research Software Development with Github Copilot - June 5, 2024, 9 am PT/12 pm ET
+In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Sign Up for the workshop
 Link to register: https://tinyurl.com/2ypvbc9v
 - Cost: Free for Internet2 members, $50 for non-members. 
-  
-# Power Up Research Software Development with Github Copilot - June 5, 2024, 9 am PT/12 pm ET
-In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Pre-requisites
 You **MUST** pre-install and obtain access to the following before the start of the workshop. GitHub Copilot accounts WILL NOT be provided. 
