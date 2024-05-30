@@ -6,26 +6,32 @@
 		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
-	"features": {},
+	"features": {
+		"ghcr.io/devcontainers/features/aws-cli:1": {}
+	},
+	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot"
-			]
+				"GitHub.copilot",
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"ms-python.vscode-pylance"
+			],
+			"settings": {
+				"python.defaultInterpreterPath": "/opt/conda/bin/python",
+				"python.analysis.extraPaths": [
+					"/opt/conda/lib/*/site-packages/"
+				]
+			}
 		}
 	}
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "python --version",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
+	// "postCreateCommand": "pip3 install --user -r requirements.txt",
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"

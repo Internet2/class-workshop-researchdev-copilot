@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+awscli
+ipykernel
+boto3
+notebook
+gensim
+fuzzytm
+
