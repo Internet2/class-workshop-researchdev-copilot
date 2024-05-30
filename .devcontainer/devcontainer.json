@@ -6,12 +6,23 @@
 		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
-	"features": {},
+	"features": {
+		"ghcr.io/devcontainers/features/aws-cli:1": {}
+	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot"
-			]
+				"GitHub.copilot",
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"ms-python.vscode-pylance"
+			],
+			"settings": {
+				"python.defaultInterpreterPath": "/opt/conda/bin/python",
+				"python.analysis.extraPaths": [
+					"/opt/conda/lib/*/site-packages/"
+				]
+			}
 		}
 	}
 
