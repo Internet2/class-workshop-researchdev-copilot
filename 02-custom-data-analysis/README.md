@@ -4,7 +4,7 @@ Inside this folder, you'll find the Jupyter notebook `custom-data-notebook.ipynb
 
 ## Notebook Structure
 
-The notebook is structured into three main sections: set-up, data analysis, and data modeling. It follows the same format as the `fm-ad-notebook.ipynb`, with the additional inclusion of the data modeling section. This new section is dedicated to building machine learning models tailored for datasets that exhibit predictability potential.
+The notebook is structured into three main sections: set-up, data analysis, and data modeling. It follows the same format as the notebooks in `01-cancer-data-analysis` directory, with the additional inclusion of the data modeling section. This new section is dedicated to building machine learning models tailored for datasets that exhibit predictability potential.
 
 ## Recommended datasets
 
