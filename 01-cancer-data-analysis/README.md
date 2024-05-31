@@ -4,7 +4,7 @@ This repository contains a collection of notebooks for the data analysis workflo
 
 ## Notebooks
 
-- [`fm-ad-notebook-exploration.ipynb`](fm-ad-notebook-exploration.ipynb): This notebook focuses on exploring the cancer data, performing initial data analysis, and gaining insights into the dataset.
+- [`fm-ad-notebook-exploration.ipynb`](fm-ad-notebook-exploration.ipynb): This notebook focuses on exploring the cancer data, performing initial data exploration, and gaining insights into the dataset.
 
 - [`fm-ad-notebook-processing.ipynb`](fm-ad-notebook-processing.ipynb): This notebook covers the data processing steps, including cleaning, transforming, and preparing the data for further analysis.
 
