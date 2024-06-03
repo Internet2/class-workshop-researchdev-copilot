@@ -6,14 +6,20 @@ This guide will help you set up a Conda environment using the `environment.yml` 
 
 1. **Install Conda**
     
-    Ensure you have [Conda](https://docs.anaconda.com/free/anaconda/install/) installed.
+    Ensure you have [Conda](https://docs.anaconda.com/free/anaconda/install/) installed. If you do not have Conda installed, we recommend following the graphical installation instructions with respect to your machine's Operating System (OS). *With the exception of Linux, which only has CLI based installation*
+   
+      - [MacOS](https://docs.anaconda.com/free/anaconda/install/mac-os/)
+      - [Windows](https://docs.anaconda.com/free/anaconda/install/windows/)
+      - [Linux](https://docs.anaconda.com/free/anaconda/install/linux/)
+
 
 2. **Clone the repository**
 
-   First, clone the repository containing the `environment.yml` file to your local machine and navigate to the directory where the repository is cloned.
+   Ensure you have cloned the repository by following the steps in the [Getting Started section of the main README](../README.md#getting-started) of this repo.
+
+   Once you have cloned the repo, open up your terminal to navigate to the directory of the repo in your local machine.
 
    ```bash
-   git clone https://github.com/Internet2/class-workshop-researchdev-copilot.git
    cd class-workshop-researchdev-copilot
    ```
 
@@ -48,4 +54,4 @@ This guide will help you set up a Conda environment using the `environment.yml` 
 
     Now you should be ready to use your newly created conda environment in VS Code!
 
-    ![conda-in-vscode.png](./conda-in-vscode.png)
+    <img src="../assets/conda-in-vscode.png" alt="conda-in-vscode.png" width="500">

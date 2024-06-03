@@ -49,3 +49,34 @@ You **MUST** pre-install and obtain access to the following before the start of 
 ### Takeaways and closing remarks (30 mins)
 - Continue analyzing the current data set
 - Lessons learned
+
+
+
+## Getting started
+
+1. **Clone the repository**
+
+   First, clone the repository to your local machine and navigate to the directory where the repository is cloned. Open up the terminal in your computer, navigate to the directory you want to store the files to this repo in, and run the following command:
+
+   ```bash
+   git clone https://github.com/Internet2/class-workshop-researchdev-copilot.git
+   ```
+2. **Verify via Command Line Interface (CLI)**
+
+    Verify that you successfully cloned the repo by running the following command:
+
+    ```bash
+    ls
+    ```
+
+    You should see the same directory structure as the one in the GitHub repo online.
+
+3. **Open repo on Visual Studio Code**
+
+    Now you are ready to start the workshop. Open up Visual Studio Code on your computer and open the folder that houses the repo.
+
+    <img src="./assets/vscode-open-folder.png" alt="vscode-open-folder.png" width="500">
+
+    You should see a directory structure that looks like the one in the screenshot below. (There may be slight differences between the files shown in the screenshot and the one you see in your Visual Studio Code since the GitHub repo is continually updated).
+
+    <img src="./assets/vscode-repo.png" alt="vscode-repo.png" width="500">
