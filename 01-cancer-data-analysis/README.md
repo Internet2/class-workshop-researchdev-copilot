@@ -14,7 +14,7 @@ This repository contains a collection of notebooks for the data analysis workflo
 
 To get started with the cancer data analysis, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Ensure you have cloned the repository by following the steps in the [Getting Started section of the main README](../README.md#getting-started) of this repo.
 2. Open the notebooks in Visual Studio Code.
 3. Run the notebooks in the specified order (exploration, processing, visualization) to perform the complete data analysis workflow.
 
