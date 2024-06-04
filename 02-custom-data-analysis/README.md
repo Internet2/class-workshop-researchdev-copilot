@@ -1,12 +1,14 @@
-# Custom Data Notebook
+# Custom Data Analysis
 
 Inside this folder, you'll find the Jupyter notebook `custom-data-notebook.ipynb`. This notebook is designed to be your starting point for your data science journey, leveraging the knowledge you've gained from our previous workshop sessions. Here, you'll have the opportunity to apply your skills in prompt engineering and data science using a dataset of your choice.
 
 ## Notebook Structure
 
-The notebook is structured into three main sections: set-up, data analysis, and data modeling. It follows the same format as the notebooks in `01-cancer-data-analysis` directory, with the additional inclusion of the data modeling section. This new section is dedicated to building machine learning models tailored for datasets that exhibit predictability potential.
+The notebooks are structured into three main sections: set-up, data analysis, and data modeling. It follows the same format as the notebooks in `01-cancer-data-analysis` directory, with the additional inclusion of the data modeling section. This new section is dedicated to building machine learning models tailored for datasets that exhibit predictability potential.
 
 ## Recommended datasets
+
+In addition to the `custom-data-notebook.ipynb` notebook, there are several other notebooks in this directory. They already have the data loading step completed so you can jump straight into the fun stuff (exploration, processing, visualization/analysis, modeling).
 
 ### [RODA](https://registry.opendata.aws/)
 
