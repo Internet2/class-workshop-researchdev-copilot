@@ -25,6 +25,15 @@ The dataset we will be working with was used in the publication titled ["High-Th
 
 Overall, the study illustrates the power of large-scale genomic profiling in identifying unique and clinically relevant genomic alterations that may inform precision medicine approaches and treatment options.
 
+### Why did we choose this dataset?
+We selected this dataset because it is available on the Registry of Open Data on AWS. This platform allows us to demonstrate the features of Open Data on AWS and show you how to work with datasets hosted there.
+
+This dataset is well-regarded, with several existing publications that utilize it, indicating its high quality and relevance for legitimate research.
+- [High-Throughput Genomic Profiling of Adult Solid Tumors Reveals Novel Insights into Cancer Pathogenesis](https://aws.amazon.com/marketplace/pp/prodview-suzlfg5oc67uy?sr=0-120&ref_=beagle&applicationId=AWSMPContessa#usage:~:text=High%2DThroughput%20Genomic,MT%2C%20Rubin%20MA) by Ryan J. Hartmaier, Lee A. Albacker, Juliann Chmielecki, Mark Bailey, Jie He, Michael E. Goldberg, Shakti Ramkissoon, James Suh, Julia A. Elvin, Samuel Chiacchia, Garrett M. Frampton, Jeffrey S. Ross, Vincent Miller, Philip J. Stephens and Doron Lipson
+- [Targeted next-generation sequencing of advanced prostate cancer identifies potential therapeutic targets and disease heterogeneity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=DetailsSearch&term=22981675[PMID]) by Beltran H, Yelensky R, Frampton GM, Park K, Downing SR, MacDonald TY, Jarosz M, Lipson D, Tagawa ST, Nanus DM, Stephens PJ, Mosquera JM, Cronin MT, Rubin MA
+
+Additionally, the dataset's properties make it suitable for data exploration, processing, and analysis. It provides enough complexity to learn basic to intermediate data science concepts without being overly challenging to work with.
+
 ### Column Descriptions
 
 In spirit of this workshop, GitHub Copilot was used to describe a general interpretation of the columns of the dataset.
