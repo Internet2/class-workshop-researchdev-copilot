@@ -23,7 +23,7 @@ You **MUST** pre-install and obtain access to the following before the start of 
 
 ## Agenda (subject to change)
 
-### Introduction (20 mins)
+### Introduction (15 mins)
 - What is a coding companion?
 - Why use a coding companion for research software development?
 - What are the different coding companions?
@@ -38,7 +38,7 @@ You **MUST** pre-install and obtain access to the following before the start of 
 - Working with Jupyter Notebooks
 - Using GitHub Copilot to analyze and visualize datasets
 
-### Break - 15 mins
+### Break - 20 mins
 
 ### Hand-on Lab - Part 2 (60 mins)
 - Using GitHub Copilot to develop code
