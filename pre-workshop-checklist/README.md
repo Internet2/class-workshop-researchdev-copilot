@@ -54,4 +54,4 @@ Verify that Conda is installed and you can activate environments.
         conda deactivate
         ```
 
-This checklist will help ensure that you have the necessary setup for a smooth workshop experience. If you encounter any issues, please reach out for assistance.
+This checklist will help ensure that you have the necessary setup for a smooth workshop experience. If you encounter any issues, please check out the [Troubleshooting Guide](../03-troubleshooting-guides/README.md) or reach out to the workshop organizers for further assistance.
