@@ -4,7 +4,7 @@ Before attending the workshop, please ensure that you have the required prerequi
 
 ### Repository Update
 
-Make sure that you have cloned the repo. You can see instructions on how to do so on the [Getting Started](../README.md#getting-started) section of main page of this repository.
+Make sure that you have cloned the repository. You can see instructions on how to do so on the [Getting Started](../README.md#getting-started) section of main page of this repository.
 
 If you have already done that, ensure you have the latest content from the repository.
 
