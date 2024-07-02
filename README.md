@@ -1,4 +1,4 @@
-# Power Up Research Software Development with Github Copilot - June 5, 2024, 9 am PT/12 pm ET
+# Power Up Research Software Development with Github Copilot - July 10, 2024, 9 am PT/12 pm ET
 In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Sign Up for the workshop
