@@ -24,34 +24,52 @@ If you have already done that, ensure you have the latest content from the repos
     git pull
     ```
 
-### Conda Installation
+### Python and Virtual Environment Setup
 
-Verify that Conda is installed and you can activate environments.
+Verify that Python is installed and you can create and activate virtual environments.
 
-1. Check the Conda version:
+1. Check the Python version:
     ```bash
-    conda --version
+    python --version
     ```
     - You should see an output similar to:
         ```
-        conda X.Y.Z
+        Python 3.X.Y
         ```
-    - Example:
+    - Make sure you have Python 3.8 or newer installed
 
-        <img src="../assets/conda-version.jpg" alt="Conda version" width="300">
-
-2. Test environment activation:
-    - Activate the base Conda environment:
+2. Test virtual environment creation and activation:
+    - Create a test virtual environment:
         ```bash
-        conda activate
+        python -m venv test-env
         ```
-        - You should see `(base)` appended before your username in the terminal.
-        - Example:
+    - Activate the virtual environment:
         
-            <img src="../assets/conda-activate.jpg" alt="Base Environment Activation" width="300">
-    - Deactivate the base Conda environment:
+        On Windows:
         ```bash
-        conda deactivate
+        test-env\Scripts\activate
+        ```
+        
+        On MacOS/Linux:
+        ```bash
+        source test-env/bin/activate
+        ```
+        - You should see `(test-env)` appended before your username in the terminal.
+    
+    - Verify pip is available:
+        ```bash
+        pip --version
+        ```
+    
+    - Deactivate the virtual environment:
+        ```bash
+        deactivate
+        ```
+    
+    - Clean up the test environment:
+        ```bash
+        rm -rf test-env  # On MacOS/Linux
+        rmdir /s /q test-env  # On Windows
         ```
 
 This checklist will help ensure that you have the necessary setup for a smooth workshop experience. If you encounter any issues, please check out the [Troubleshooting Guide](../03-troubleshooting-guides/README.md) or reach out to the workshop organizers for further assistance.

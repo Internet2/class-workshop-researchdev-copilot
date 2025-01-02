@@ -15,7 +15,7 @@ You **MUST** pre-install and obtain access to the following before the start of 
 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+- [Venv](https://docs.python.org/3/library/venv.html)
 - [GitHub account](https://github.com/)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [GitHub Copilot Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
