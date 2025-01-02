@@ -1,4 +1,4 @@
-# Power Up Research Software Development with Github Copilot - July 10, 2024, 9 am PT/12 pm ET
+# Power Up Research Software Development with Github Copilot - January 21, 2024, 9 am PT/12 pm ET
 In this 4-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Sign Up for the workshop
@@ -9,9 +9,9 @@ Link to register: https://tinyurl.com/2ypvbc9v
 You **MUST** pre-install and obtain access to the following before the start of the workshop. GitHub Copilot accounts WILL NOT be provided. 
 
 > [!NOTE]
-> Please be aware that when signing up for the free trial of GitHub Copilot you will be asked to submit a form of payment even though you will not be charged until the free trial is over. Ensure you cancel before the 30 days is over to avoid payment.
-
-
+> There are two ways to use GitHub Copilot for free:
+> 1. Use the free tier of GitHub Copilot. While there are limits on the number of requests, this tier is sufficient for the workshop. However, if you tend to engage extensively with the built-in Copilot Chat, you may want to consider the second option. Learn more about the limits [here](https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot#comparing-copilot-subscriptions).
+> 2. Sign up for the free trial of GitHub Copilot Pro. Note that a payment method is required at sign-up, but you will not be charged until the trial ends. Make sure to cancel before the 30-day trial expires to avoid any charges. Learn more [here](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/subscribing-to-copilot-as-an-individual-user)
 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
