@@ -23,32 +23,25 @@ You **MUST** pre-install and obtain access to the following before the start of 
 
 ## Agenda (subject to change)
 
-### Introduction (15 mins)
-- What is a coding companion?
-- Why use a coding companion for research software development?
-- What are the different coding companions?
+1. **Introductions (5 minutes)**
 
-### Overview of GitHub Copilot (15 mins)
-- The main features of GitHub Copilot
-- Navigating the GitHub Copilot interface and prompts
-- GitHub Copilot Chat
+2. **Overview of the Workshop (10 minutes)**
 
-### Hands-on Lab - Part 1 (90 mins)
-- Accessing large datasets on AWS
-- Working with Jupyter Notebooks
-- Using GitHub Copilot to analyze and visualize datasets
+3. **Disabling Training of Your Data (5 minutes)**
 
-### Break - 20 mins
+4. **Overview of GitHub Copilot (10 minutes)**
 
-### Hand-on Lab - Part 2 (60 mins)
-- Using GitHub Copilot to develop code
-- Using GitHub Copilot to explain code
-- Using GitHub Copilot to document code
-- Choose your adventure
+5. **Jupyter Notebook Part 1 (45 minutes)**
 
-### Takeaways and closing remarks (30 mins)
-- Continue analyzing the current data set
-- Lessons learned
+6. **Break (15 minutes)**
+
+7. **Jupyter Notebook Part 2 (30 minutes)**
+
+8. **Copilot on Web Browser (10 minutes)**
+
+9. **Advanced Copilot Features (45 minutes)**
+
+10. **Q&A (10 minutes)**
 
 
 
