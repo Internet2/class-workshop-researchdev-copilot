@@ -23,25 +23,16 @@ You **MUST** pre-install and obtain access to the following before the start of 
 
 ## Agenda (subject to change)
 
-1. **Introductions (5 minutes)**
-
-2. **Overview of the Workshop (10 minutes)**
-
-3. **Disabling Training of Your Data (5 minutes)**
-
-4. **Overview of GitHub Copilot (10 minutes)**
-
-5. **Jupyter Notebook Part 1 (45 minutes)**
-
-6. **Break (15 minutes)**
-
-7. **Jupyter Notebook Part 2 (30 minutes)**
-
-8. **Copilot on Web Browser (10 minutes)**
-
-9. **Advanced Copilot Features (45 minutes)**
-
-10. **Q&A (10 minutes)**
+1. Introductions (5 minutes)
+2. Overview of the Workshop (10 minutes)
+3. Disabling Training of Your Data (5 minutes)
+4. Overview of GitHub Copilot (10 minutes)
+5. Jupyter Notebook Part 1 (45 minutes)
+6. Break (15 minutes)
+7. Jupyter Notebook Part 2 (30 minutes)
+8. Copilot on Web Browser (10 minutes)
+9. Refactoring with Copilot (45 minutes)
+10. Q&A (10 minutes)
 
 
 
