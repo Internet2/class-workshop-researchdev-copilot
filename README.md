@@ -2,8 +2,7 @@
 In this 3-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Sign Up for the workshop
-Link to register: https://tinyurl.com/2ypvbc9v
-- Cost: Free for Internet2 members, $50 for non-members. 
+Link to register: https://tinyurl.com/2p8ezn48
 
 ## Pre-requisites
 You **MUST** pre-install and obtain access to the following before the start of the workshop. GitHub Copilot accounts WILL NOT be provided. 
@@ -16,6 +15,7 @@ You **MUST** pre-install and obtain access to the following before the start of 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Venv](https://docs.python.org/3/library/venv.html)
+- [Python 3.10 or higher](https://www.python.org/downloads/)
 - [GitHub account](https://github.com/)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [GitHub Copilot Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
