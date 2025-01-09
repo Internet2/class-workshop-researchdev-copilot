@@ -6,7 +6,7 @@ This guide will help you set up a Python virtual environment using `venv` and th
 
 1. **Install Python**
     
-    Ensure you have Python 3.8 or newer installed. You can download Python from the [official Python website](https://www.python.org/downloads/).
+    Ensure you have Python 3.10 or newer installed. You can download Python from the [official Python website](https://www.python.org/downloads/).
    
       - [MacOS](https://www.python.org/downloads/macos/)
       - [Windows](https://www.python.org/downloads/windows/)
@@ -48,9 +48,10 @@ This guide will help you set up a Python virtual environment using `venv` and th
 
 3. **Install dependencies**
 
-   Install the required packages using pip and the requirements.txt file:
+   Navigate to the `venv-environment` directory then run the `pip install` command:
 
    ```bash
+   cd venv-environment
    pip install -r requirements.txt
    ```
 
