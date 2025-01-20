@@ -6,3 +6,5 @@
 gh-cp-venv/
 
 99-archive/
+
+*__pycache__/
