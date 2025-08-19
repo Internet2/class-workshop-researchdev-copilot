@@ -1,8 +1,6 @@
-# Power Up Research Software Development with Github Copilot - January 21, 2024, 8am PT/11am ET
-In this 3-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
+# Power Up Research Software Development with Github Copilot
 
-## Sign Up for the workshop
-Link to register: https://tinyurl.com/2p8ezn48
+In this 3-hour workshop, you will learn how to use Github Copilot to write better and faster research software and create documentation to describe your workflow and code. The lesson will utilize a genomics dataset from the AWS Open Data program. You will also learn to analyze and visualize the dataset using open-source tools. 
 
 ## Pre-requisites
 You **MUST** pre-install and obtain access to the following before the start of the workshop. GitHub Copilot accounts WILL NOT be provided. 
@@ -19,20 +17,40 @@ You **MUST** pre-install and obtain access to the following before the start of 
 - [GitHub account](https://github.com/)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [GitHub Copilot Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
+- [Docker](https://www.docker.com/get-started/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
 
 
 ## Agenda (subject to change)
 
-1. Introductions (5 minutes)
-2. Overview of the Workshop (10 minutes)
-3. Disabling Training of Your Data (5 minutes)
-4. Overview of GitHub Copilot (10 minutes)
-5. Jupyter Notebook Part 1 (45 minutes)
-6. Break (15 minutes)
-7. Jupyter Notebook Part 2 (30 minutes)
-8. Copilot on Web Browser (10 minutes)
-9. Refactoring with Copilot (45 minutes)
-10. Q&A (10 minutes)
+1. Introduction & Tool Overview (20 minutes)
+   - Welcome and objectives
+   - GitHub Copilot features walkthrough
+   - Privacy settings ([disable training on your data](https://github.com/settings/copilot/features))
+   - Premium requests management ([spending limits](https://github.com/settings/billing/budgets))
+
+2. Notebook Repository - Data & Backend Focus (40 minutes)
+   - Working with data processing code
+   - Backend logic enhancement
+
+3. Break (10 minutes)
+
+4. Container Orchestration Repository - UI/Frontend Focus (60 minutes)
+   - Basic UI Refactoring (25 minutes)
+     - CSS organization and separation
+     - Simple styling improvements
+   - Advanced UI Development (35 minutes)
+     - Prompting strategy demonstration
+     - Generic vs. detailed prompts comparison
+
+5. Break (10 minutes)
+
+6. Prompt Engineering Best Practices (30 minutes)
+   - Specificity and context
+   - Requesting alternatives and feedback
+   - Iteration and refinement techniques
+
+7. Q&A (10 minutes)
 
 
 
